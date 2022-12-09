@@ -1,0 +1,11 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.icons {
+    height: 15%;
+    width: 15%;
+}
+.container {
+    border-radius: 100px;
+}
