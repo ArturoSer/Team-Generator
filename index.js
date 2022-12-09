@@ -145,7 +145,7 @@ function GenerateManager(managerARR) {
     <ul class="list-group list-group-flush">
     <li class="list-group-item">Username: ${managerARR[0].getId()}</li>
     <li class="list-group-item">Email: ${managerARR[0].getEmail()}</li>
-    <li class="list-group-item">Extension: ${managerARR[0].getExtension()}</li>
+    <li class="list-group-item">Extension: ${managerARR[0].getextensionNumber()}</li>
     </ul>
     </div>
     </div>
