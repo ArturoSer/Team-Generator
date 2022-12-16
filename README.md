@@ -1,5 +1,9 @@
 # Team Generator
 
+# Description
+
+In this app it is to help generate a team and assist companies keep track of their different employees and their names. Also the ability to make everything quick access. This is because sometimes it is hard to keep track of everyone and their positions and titles!
+
 # User Story
 
 ```md
@@ -29,3 +33,4 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+
