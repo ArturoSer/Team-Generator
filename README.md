@@ -39,4 +39,7 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
-
+# Usage
+Just copy repository through your terminal
+then run ```npm i``` to install dependencies 
+then just do a ```node index.js``` to run the code! :)
