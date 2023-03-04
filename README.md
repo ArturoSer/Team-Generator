@@ -1,5 +1,11 @@
 # Team Generator
 
+## Table of Contents
+- [Description](#Description)
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+
+
 # Description
 
 In this app it is to help generate a team and assist companies keep track of their different employees and their names. Also the ability to make everything quick access. This is because sometimes it is hard to keep track of everyone and their positions and titles!
